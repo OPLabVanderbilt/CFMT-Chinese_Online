@@ -1,0 +1,93 @@
+TaskName.jpg
+Cambridge Face Memory Test
+State Key Laboratory of Cognitive Neuroscience and Learning
+(Adapted from CMTF)
+
+-----
+
+EndExp.jpg
+End of experiment
+
+-----
+
+NoiseTestDirect.jpg
+Test 2
+The rendered face image will be blurred
+The task is the same as test 1
+Pleass press the number keys 1, 2, 3 corresponding to the picture to select the target
+When you are ready, press the "space" button to start
+
+-----
+
+NoNoiseTestDirect.jpg
+Test 1
+Each of the following images has three faces numbered from left to right by 1, 2, 3
+Among them, there is only one face that is 6 target people.
+Pleass press the number keys 1, 2, 3 corresponding to the picture to select the target
+When you are ready, press the "space" button to start
+
+-----
+
+PracticeBanner.jpg
+Which one have you seen before?
+Pleass press the number keys 1, 2, 3 corresponding to the picture to select the answer
+
+-----
+
+PracticeBanner2.jpg
+Memorize
+
+-----
+
+PracticeDirect.jpg
+Exercise
+The following will present three face images one by one, please remember
+There will be a test after 3 faces are rendered
+When you are ready, press the "space" button to start
+
+-----
+
+PracticeRight.jpg
+Completely correct!
+Below we will start the formal test
+Below you will learn the faces of the six target characters in turn (3 per person)
+And the practice section, there will be a test after each face
+When you are ready, press the "space" button to start learning the face of the first person
+
+-----
+
+PracticeWrong.jpg
+Error!
+Please go back and start again. Maybe you didn't understand the requirements of this experiment
+When you are ready, press the "space" button to return
+
+-----
+
+ResumeLearning.jpg
+Please continue to learn the face of the next person
+When you are ready, press the "space" button to start
+
+-----
+
+ReviewDirect.jpg
+The faces of the following 6 target characters will be displayed on the screen for 20 seconds at the same time
+Please try to remember
+Then there will be two tests to test your Memory
+When you are ready, press the "space" button to start
+
+-----
+
+ReviewDirect2.jpg
+Please review the faces of these 6 target characters again for 20 seconds
+Please try to remember
+When you are ready, press the "space" button to start
+
+-----
+
+ReviewScreen.jpg
+Please remember the faces of these 6 target people (20 seconds)
+
+-----
+
+TestBanner.jpg
+Which face is one of the six target people?
